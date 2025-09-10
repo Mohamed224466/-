@@ -232,7 +232,7 @@ margin-right: -20px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 30px;
+    gap: 20px;
     width: 30%;
     flex-direction: row;
 }
@@ -486,5 +486,6 @@ margin-right: -20px;
         font-size: 15px;
     }
 }
+
 
 
